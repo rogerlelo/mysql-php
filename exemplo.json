@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "titulo": "Módulo 01",
+    "videos": [
+      {
+        "id": 1,
+        "titulo": "Vídeo de teste 1",
+        "tempo_video": "03:29",
+        "s1": "http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd",
+        "s2": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      },
+      {
+        "id": 2,
+        "titulo": "Vídeo de teste 2",
+        "tempo_video": "03:29",
+        "s1": "http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd",
+        "s2": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      },
+      {
+        "id": 3,
+        "titulo": "Vídeo de teste 3",
+        "tempo_video": "03:29",
+        "s1": "http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd",
+        "s2": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      },
+      {
+        "id": 4,
+        "titulo": "Vídeo de teste 4",
+        "tempo_video": "03:29",
+        "s1": "http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd",
+        "s2": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      },
+      {
+        "id": 5,
+        "titulo": "Vídeo de teste 5",
+        "tempo_video": "03:29",
+        "s1": "http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd",
+        "s2": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Módulo 02",
+    "videos": [
+      {
+        "id": 6,
+        "titulo": "Vídeo de teste 6",
+        "tempo_video": "03:29",
+        "s1": "http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd",
+        "s2": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      },
+      {
+        "id": 7,
+        "titulo": "Vídeo de teste 7",
+        "tempo_video": "03:29",
+        "s1": "http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd",
+        "s2": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      },
+      {
+        "id": 8,
+        "titulo": "Vídeo de teste 8",
+        "tempo_video": "03:29",
+        "s1": "http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd",
+        "s2": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      },
+      {
+        "id": 9,
+        "titulo": "Vídeo de teste 9",
+        "tempo_video": "03:29",
+        "s1": "http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd",
+        "s2": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      },
+      {
+        "id": 10,
+        "titulo": "Vídeo de teste 10",
+        "tempo_video": "03:29",
+        "s1": "http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd",
+        "s2": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      }
+    ]
+  }
+]
